@@ -1,3 +1,7 @@
+## 📸 Demo
+
+![Crypto Selector Demo](./assets/crypto-selector-demo.gif)
+
 ### **Part 1: Introduction, Features, and Installation**
 
 # vue-asset-picker
