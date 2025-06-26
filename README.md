@@ -1,6 +1,6 @@
 ## 📸 Demo
 
-![Crypto Selector Demo](./assets/crypto-selector-demo.gif)
+![Crypto Selector Demo](./assets/demo.gif)
 
 ### **Part 1: Introduction, Features, and Installation**
 
