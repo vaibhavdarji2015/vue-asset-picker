@@ -1,0 +1,35 @@
+:root {
+  /* Backgrounds */
+  --v-ap-bg-primary: #1e1e1e; /* Main wrapper background */
+  --v-ap-bg-secondary: #2a2a2a; /* Header, crypto-list-container, conversion-section */
+  --v-ap-bg-tertiary: #3a3a3a; /* Selected dropdown, search input */
+  --v-ap-bg-quaternary: #1a1a1a; /* Conversion result */
+  --v-ap-bg-hover: #4a4a4a; /* Hover state for selected dropdown */
+
+  /* Text Colors */
+  --v-ap-text-color: #eee; /* General text color */
+  --v-ap-text-title: #fff; /* Title color */
+  --v-ap-text-light: #bbb; /* Selected crypto name, rate display */
+  --v-ap-text-placeholder: #888; /* Placeholder, info icons, no results, loading messages, list headers */
+  --v-ap-text-success: #4caf50; /* Converted amount */
+  --v-ap-text-error: #ff6b6b; /* Error messages */
+
+  /* Borders */
+  --v-ap-border-color-dark: #333; /* Main borders */
+  --v-ap-border-color-medium: #4a4a4a; /* Selected dropdown, search input */
+  --v-ap-border-color-light: #3a3a3a; /* List headers */
+
+  /* Shadows */
+  --v-ap-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+
+  /* Border Radii */
+  --v-ap-border-radius-base: 12px;
+  --v-ap-border-radius-sm: 8px;
+  --v-ap-border-radius-circle: 50%; /* For icons */
+
+  /* Other */
+  --v-ap-dropdown-arrow-color: #bbb;
+  --v-ap-scrollbar-track-bg: #333;
+  --v-ap-scrollbar-thumb-bg: #555;
+  --v-ap-scrollbar-thumb-hover-bg: #666;
+}
