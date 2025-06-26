@@ -1,11 +1,13 @@
 {
   "name": "vue-asset-picker",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": false,
   "type": "module",
   "types": "./dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "types",
+    "README.md"
   ],
   "main": "./dist/vue-asset-picker.umd.js",
   "module": "./dist/vue-asset-picker.es.js",
