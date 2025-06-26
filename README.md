@@ -235,7 +235,6 @@ You can apply a custom theme by defining these CSS variables in your own stylesh
 
 ### **Part 5: Project Setup and Commands**
 
-````
 ---
 
 ## 🛠 Project Setup
@@ -268,7 +267,6 @@ npm run lint
 
 ### **Part 6: Contributing, License, and Acknowledgements (Footer)**
 
-```
 ---
 
 ## 🤝 Contributing
@@ -285,9 +283,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-* Built with [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/).
-* State management powered by [Pinia](https://pinia.vuejs.org/).
-* Cryptocurrency data provided by [CoinGecko API](https://www.coingecko.com/api).
+- Built with [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/).
+- State management powered by [Pinia](https://pinia.vuejs.org/).
+- Cryptocurrency data provided by [CoinGecko API](https://www.coingecko.com/api).
 
 ---
-````
